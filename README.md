@@ -2,7 +2,7 @@
  
 Full-Stack & Web3 Developer focused on Web, APIs, and Smart Contracts using Move (Sui).
  
-[🇺🇸 English](./README.md) | 🇧🇷 Português | [🇪🇸 Español](./README.es.md)
+🇺🇸 English | [🇧🇷 Português](./README.pt.md) | [🇪🇸 Español](./README.es.md)
  
 ## Focus Areas 
 - Web & API Development

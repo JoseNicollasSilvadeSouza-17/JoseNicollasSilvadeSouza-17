@@ -1,8 +1,8 @@
 # José Nícollas 
 
-Full-Stack & Web3 Developer focused on Web, APIs, and Smart Contracts using Move (Sui).
+Desenvolvedor Full-Stack com foco em Web3, atuando com aplicações web, APIs e smart contracts usando Move (Sui).
 
-🇺🇸 English | [🇧🇷 Português](./README.pt.md) | [🇪🇸 Español](./README.es.md)
+[🇺🇸 English](./README.md) | 🇧🇷 Português | [🇪🇸 Español](./README.es.md)
 
 ## Áreas de foco
 - Desenvolvimento Web e APIs
@@ -14,5 +14,5 @@ Full-Stack & Web3 Developer focused on Web, APIs, and Smart Contracts using Move
 - Ecossistema Sui
 - Desenvolvimento multiplataforma
 
-## Contanto
+## Contato
 - LinkedIn: https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/
