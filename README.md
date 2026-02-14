@@ -1,4 +1,4 @@
-# José Nícollas 
+# José Nícollas ⠚⠕⠎⠑ ⠝⠊⠉⠕⠇⠇⠁⠎ 
  
 Full-Stack & Web3 Developer focused on Web, APIs, and Smart Contracts using Solidity and Move (Sui).
  
