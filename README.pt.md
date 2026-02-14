@@ -1,17 +1,17 @@
 # José Nícollas 
 
-Desenvolvedor Full-Stack com foco em Web3, atuando com aplicações web, APIs e smart contracts usando Move (Sui).
+Desenvolvedor Full-Stack com foco em Web3, atuando com aplicações web, APIs e smart contracts usando Solidity e Move (Sui).
 
-[🇺🇸 English](./README.md) | 🇧🇷 Português | [🇪🇸 Español](./README.es.md)
+[🇺🇸 English](./README.md) | [🇪🇸 Español](./README.es.md) | 🇧🇷 Português
 
 ## Áreas de foco
 - Desenvolvimento Web e APIs
-- Smart Contracts com Move (Sui)
+- Smart Contracts com Solidity e Move (Sui)
 - Qualidade de código e documentação
 
 ## Em aprendizado
-- Conceitos avançados de Move e segurança
-- Ecossistema Sui
+- Conceitos avançados de Web3 e segurança
+- Ecossistema Sui, Stellar e Syscoin
 - Desenvolvimento multiplataforma
 
 ## Contato
