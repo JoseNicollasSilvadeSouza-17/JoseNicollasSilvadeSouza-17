@@ -27,3 +27,6 @@ Desarrollador Full-Stack con enfoque en Web3, trabajando con aplicaciones web, A
  
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999894887)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josenicollassilva/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/0xnickyfleet)
