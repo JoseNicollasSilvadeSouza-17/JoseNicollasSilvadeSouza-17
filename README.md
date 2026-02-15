@@ -25,6 +25,12 @@ Full-Stack & Web3 Developer focused on Web, APIs, and Smart Contracts using Soli
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/move-sui?style=for-the-badge&logo=sui&logoColor=white&color=4da2ff)
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=compact&theme=github_dark&hide_border=true)
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999894887)
