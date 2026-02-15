@@ -27,9 +27,9 @@ Desenvolvedor Full-Stack com foco em Web3, atuando com aplicações web, APIs e 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
 
-![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=compact&theme=github_dark&hide_border=true)
+![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/)
