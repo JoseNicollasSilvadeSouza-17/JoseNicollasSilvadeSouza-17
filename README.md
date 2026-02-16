@@ -27,7 +27,7 @@ Full-Stack & Web3 Developer focused on Web, APIs, and Smart Contracts using Soli
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
 
 ![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=compact&theme=github_dark&hide_border=true&lang_count=1)
 
