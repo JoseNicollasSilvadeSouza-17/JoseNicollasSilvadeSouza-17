@@ -32,9 +32,17 @@ Desenvolvedor Full-Stack com foco em Web3, atuando com aplicações web, APIs e 
 ![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=donut&theme=github_dark&hide_border=true&locale=pt-br&lang_count=1)
 
 ## Contato
+
+### Centros Profissionais e Tecnológicos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999894887)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josenicollassilva/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/josenicollas)  
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/61560745131546/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/josenicollassilvadesouza)
+
+### Contanto Direto e Suporte
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999894887)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/josenicollas)
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josenicollassilvadesouza@gmail.com)
+
+### Redes Sociais
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/0xnickyfleet)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josenicollassilva/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/61560745131546/)
