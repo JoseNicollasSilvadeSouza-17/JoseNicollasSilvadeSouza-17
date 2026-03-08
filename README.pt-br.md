@@ -1,19 +1,19 @@
 # José Nícollas ⠚⠕⠎⠑ ⠝⠊⠉⠕⠇⠇⠁⠎ 
 
-Desenvolvedor Full-Stack e Web3, atuando com aplicações Web, APIs e Smart Contracts. Focado em ecossistemas Multichain e explorando ativamente novas tecnologias por meio de Hackathons e Programas para desenvolvedores.
+Desenvolvedor Full-Stack e Web3, atuando com aplicações Web, APIs e Smart Contracts. Focado em ecossistemas Multichain e explorando ativamente novas tecnologias por meio de Hackathons e programas para desenvolvedores.
 
-[🇺🇸 English](./README.md) | [🇪🇸 Español](./README.es.md) | 🇧🇷 Português
+[🇺🇸 English](./README.md) | [🇪🇸 Español](./README.es.md) | 🇧🇷 Português (Brasil) | [🇵🇹 Português (Portugal)](./README.pt-pt.md)
 
 ## Áreas de Foco
 - Desenvolvimento de Aplicações Web e APIs
-- Contratos Inteligentes com Solidity e Move (Sui)
+- Desenvolvimento de Contratos Inteligentes (Solidity e Move / Sui)
 - Integrações Web3 e ferramentas blockchain
 - Arquitetura limpa, Testes e Documentação
 - Participação ativa em Hackathons e Programas para Desenvolvedores
 
 ## Em Aprendizado
 - Conceitos avançados de Web3 e Segurança
-- Ecossistema Multicadeia e infraestrutura blockchain
+- Ecossistemas Multicadeia e infraestrutura blockchain
 - Desenvolvimento Multiplataforma
 
 ## Tecnologias
@@ -44,7 +44,7 @@ Desenvolvedor Full-Stack e Web3, atuando com aplicações Web, APIs e Smart Cont
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/josenicollassilvadesouza)
 
-### Contanto Direto e Suporte
+### Contato Direto e Suporte
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999894887)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/josenicollas)
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josenicollassilvadesouza@gmail.com)

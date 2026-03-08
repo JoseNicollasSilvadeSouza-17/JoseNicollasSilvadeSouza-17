@@ -1,22 +1,22 @@
 # José Nícollas ⠚⠕⠎⠑ ⠝⠊⠉⠕⠇⠇⠁⠎ 
- 
-Full-Stack & Web3 Developer building Web applications, APIs and Smart Contracts. Focused on multi-chain ecosystems and actively exploring new technologies through hackathons and developer programs.
- 
-🇺🇸 English | [🇪🇸 Español](./README.es.md) | [🇧🇷 Português (Brasil)](./README.pt-br.md) | [🇵🇹 Português (Portugal)](./README.pt-pt.md)
- 
-## Focus Areas 
-- Web Applications & API Development
-- Smart Contracts Development (Solidity & Move / Sui)
-- Web3 integrations and blockchain tooling
-- Clean Architecture, Testing and Documentation
-- Active participation in Hackathons and Developer Programs
- 
-## Currently Learning 
-- Advanced Web3 concepts and Security
-- Multi-chain ecosystems and blockchain infrastructure
-- Multiplatform Development
 
-## Tech Stack
+Full-Stack e Web3 Developer, atuando com aplicações Web, APIs e Smart Contracts. Focado em ecossistemas Multichain e explorando ativamente novas tecnologias através de Hackathons e programas para developers.
+
+[🇺🇸 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇧🇷 Português (Brasil)](./README.pt-br.md) | 🇵🇹 Português (Portugal)
+
+## Áreas de Foco
+- Desenvolvimento de Aplicações Web e APIs
+- Desenvolvimento de Contratos Inteligentes (Solidity e Move / Sui)
+- Integrações Web3 e ferramentas blockchain
+- Arquitetura limpa, Testes e Documentação
+- Participação ativa em Hackathons e Programas para Developers
+
+## Em Aprendizagem
+- Conceitos avançados de Web3 e Segurança
+- Ecossistemas Multicadeia e infraestrutura blockchain
+- Desenvolvimento Multiplataforma
+
+## Tecnologias
 
 ### Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,24 +32,24 @@ Full-Stack & Web3 Developer building Web applications, APIs and Smart Contracts.
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/move-sui?style=for-the-badge&logo=sui&logoColor=white&color=4da2ff)
 
-## GitHub Stats
+## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&custom_title=Jos%C3%A9%20N%C3%ADcollas%20Silva%20de%20Souza&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&custom_title=Jos%C3%A9%20N%C3%ADcollas%20Silva%20de%20Souza&show_icons=true&theme=github_dark&count_private=true&hide_border=true&locale=pt-pt)
 
-![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=donut&theme=github_dark&hide_border=true&lang_count=1)
+![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=donut&theme=github_dark&hide_border=true&locale=pt-pt&lang_count=1)
 
-## Contact
+## Contacto
 
-### Professional & Tech Hubs
+### Centros Profissionais e Tecnológicos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/josenicollassilvadesouza)
 
-### Direct Contact & Support
+### Contacto Direto e Suporte
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999894887)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/josenicollas)
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josenicollassilvadesouza@gmail.com)
 
-### Social Media
+### Redes Sociais
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/0xnickyfleet)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josenicollassilva/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/61560745131546/)

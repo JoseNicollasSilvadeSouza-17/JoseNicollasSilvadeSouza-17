@@ -2,11 +2,11 @@
  
 Desarrollador Full-Stack y Web3, trabajando con aplicaciones Web, APIs y Smart Contracts. Enfocado en ecosistemas Multicadena y explorando activamente nuevas tecnologías a través de Hackathones y programas para desarrolladores.
  
-[🇺🇸 English](./README.md) | 🇪🇸 Español | [🇧🇷 Português](./README.pt.md)
+[🇺🇸 English](./README.md) | 🇪🇸 Español | [🇧🇷 Português (Brasil)](./README.pt-br.md) | [🇵🇹 Português (Portugal)](./README.pt-pt.md)
  
 ## Áreas de Enfoque
 - Desarrollo de Aplicaciones Web y APIs
-- Contratos Inteligentes con Solidity y Move (Sui)
+- Dessarrollo de Contratos Inteligentes (Solidity y Move / Sui)
 - Integraciones Web3 y herramientas blockchain
 - Arquitectura limpia, Pruebas y Documentación
 - Participación activa en Hackathones y Programas para Desarrolladores
