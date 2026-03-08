@@ -1,33 +1,40 @@
 # José Nícollas ⠚⠕⠎⠑ ⠝⠊⠉⠕⠇⠇⠁⠎ 
  
-Desarrollador Full-Stack con enfoque en Web3, trabajando con aplicaciones web, APIs y smart contracts usando Solidity y Move (Sui).
+Desarrollador Full-Stack y Web3, trabajando con aplicaciones Web, APIs y Smart Contracts. Enfocado en ecosistemas Multicadena y explorando activamente nuevas tecnologías a través de Hackathones y programas para desarrolladores.
  
 [🇺🇸 English](./README.md) | 🇪🇸 Español | [🇧🇷 Português](./README.pt.md)
  
-## Áreas de enfoque
-- Desarrollo Web y APIs
-- Smart Contracts con Solidity y Move (Sui)
-- Calidad de código y documentación
+## Áreas de Enfoque
+- Desarrollo de Aplicaciones Web y APIs
+- Contratos Inteligentes con Solidity y Move (Sui)
+- Integraciones Web3 y herramientas blockchain
+- Arquitectura limpia, Pruebas y Documentación
+- Participación activa en Hackathones y Programas para Desarrolladores
  
-## En aprendizaje
-- Conceptos avanzados de Web3 y seguridad
-- Ecosistema Sui, Stellar y Syscoin
-- Desarrollo multiplataforma
+## En Aprendizaje
+- Conceptos avanzados de Web3 y Seguridad
+- Ecosistemas Multicadena e infraestructura blockchain
+- Desarrollo Multiplataforma
 
-## Stacks
+## Tecnologías
 
+### Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+### Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/move-sui?style=for-the-badge&logo=sui&logoColor=white&color=4da2ff)
 
-## GitHub Stats
+## Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&show_icons=true&theme=github_dark&count_private=true&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&custom_title=Jos%C3%A9%20N%C3%ADcollas%20Silva%20de%20Souza&show_icons=true&theme=github_dark&count_private=true&hide_border=true&locale=es)
 
 ![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=donut&theme=github_dark&hide_border=true&locale=es&lang_count=1)
 
