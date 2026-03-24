@@ -4,19 +4,19 @@ Full-Stack & Web3 Developer building Web applications, APIs and Smart Contracts.
  
 🇺🇸 English | [🇪🇸 Español](./README.es.md) | [🇧🇷 Português (Brasil)](./README.pt-br.md) | [🇵🇹 Português (Portugal)](./README.pt-pt.md)
  
-## Focus Areas 
+## 🎯 Focus Areas 
 - Web Applications & API Development
 - Smart Contracts Development (Solidity & Move / Sui)
 - Web3 integrations and blockchain tooling
 - Clean Architecture, Testing and Documentation
 - Active participation in Hackathons and Developer Programs
  
-## Currently Learning 
+## 🧠 Currently Learning 
 - Advanced Web3 concepts and Security
 - Multi-chain ecosystems and blockchain infrastructure
 - Multiplatform Development
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,13 +32,13 @@ Full-Stack & Web3 Developer building Web applications, APIs and Smart Contracts.
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/move-sui?style=for-the-badge&logo=sui&logoColor=white&color=4da2ff)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-josenicollas.vercel.app/api?username=JoseNicollasSilvadeSouza-17&custom_title=Jos%C3%A9%20N%C3%ADcollas%20Silva%20de%20Souza&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
 
 ![Top Language](https://github-readme-stats-josenicollas.vercel.app/api/top-langs?username=JoseNicollasSilvadeSouza-17&layout=donut&theme=github_dark&hide_border=true&lang_count=1)
 
-## Contact
+## 📫 Contact
 
 ### Professional & Tech Hubs
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-n%C3%ADcollas-silva-de-souza/)
@@ -47,9 +47,11 @@ Full-Stack & Web3 Developer building Web applications, APIs and Smart Contracts.
 ### Direct Contact & Support
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999894887)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/josenicollas)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1360797543251972288)
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josenicollassilvadesouza@gmail.com)
 
 ### Social Media
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@JoséNícollasSilvadeSouza-jnss)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/0xnickyfleet)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josenicollassilva/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/61560745131546/)
